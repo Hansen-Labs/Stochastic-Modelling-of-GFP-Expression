@@ -7,3 +7,5 @@ This repository contains the code used in the paper entitled "Decoupled translat
   
 # Output
 The output of the simulations is stored in CSV files. These files contain the changes over time in the levels of RNA, premature GFP, and mature GFP for each simulated cell.
+
+Archive: 10.5281/zenodo.11059644
