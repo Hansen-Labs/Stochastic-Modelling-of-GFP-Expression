@@ -1,5 +1,5 @@
 ## GFP Expression Modeling
-This repository contains the code used in the paper entitled "Decoupled translation and degradation enable noise-modulation by poly(A)-tail" by Grandi et al. (2024) to perform stochastic modeling of GFP expression from mRNAs with different poly(A)-tail lengths.
+This repository contains the code used in the paper entitled "Decoupled translation and degradation enable noise-modulation by poly(A)-tails" by Grandi et al. (2024) to perform stochastic modeling of GFP expression from mRNAs with different poly(A)-tail lengths.
 
 # Files
 - model.py: This file contains the model and the rates needed for the simulation.
